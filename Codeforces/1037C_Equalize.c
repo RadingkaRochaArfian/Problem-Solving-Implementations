@@ -23,3 +23,4 @@ int main() {
   scanf("%lld", &n);
   solve(n);
 }
+//reference: https://github.com/soumik9876/Codeforces-solutions/blob/master/codeforces%201037%20C.%20Equalize.cpp
