@@ -12,3 +12,4 @@
 1322A - Unusual Competitions [ [Problem](https://codeforces.com/contest/1322/problem/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/1322A_UnusualCompetitions) ]  
 2044E - Insane Problem [ [Problem](https://codeforces.com/contest/2044/problem/E) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/2044E_InsaneProblem.c) ]  
 1037C - Equalize [ [Problem](https://codeforces.com/contest/1037/problem/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/1037C_Equalize.c) ]  
+1167B - Lost Numbers [ [Problem](https://codeforces.com/problemset/problem/1167/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/1167B_LostNumbers.c) ]  
