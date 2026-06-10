@@ -14,3 +14,4 @@
 1037C - Equalize [ [Problem](https://codeforces.com/contest/1037/problem/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/1037C_Equalize.c) ]  
 1167B - Lost Numbers [ [Problem](https://codeforces.com/problemset/problem/1167/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/1167B_LostNumbers.c) ]  
 286A - Lucky Permutation [ [Problem](https://codeforces.com/problemset/problem/286/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/286A_LuckyPermutation.c) ]  
+1634B - Fortune Telling [ [Problem](https://codeforces.com/contest/1634/problem/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/1634B_FortuneTelling.c) ]  
