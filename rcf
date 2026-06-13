@@ -1,2 +1,2 @@
-gcc Codeforces/8B_ObsessionWithRobots.c
+gcc Codeforces/1061B_ViewsMatter.c
 ./a.out<input
