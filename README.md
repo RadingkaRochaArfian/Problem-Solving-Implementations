@@ -19,3 +19,4 @@
 2231C - Chipmunk Theo and Equality [ [Problem](https://codeforces.com/problemset/problem/2231/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/2231C_ChipmunkTheoAndEquality.c) ]  
 2231C - Chipmunk Theo and Equality [ [Problem](https://codeforces.com/problemset/problem/2231/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/2231C_ChipmunkTheoAndEquality.c) ]  
 8B - Chipmunk Theo and Equality [ [Problem](https://codeforces.com/problemset/problem/8/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/8B_ObsessionWithRobots.c) ]  
+1061B - Views Matter [ [Problem](https://codeforces.com/problemset/problem/1061/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/Codeforces/1061B_ViewsMatter.c) ]  
