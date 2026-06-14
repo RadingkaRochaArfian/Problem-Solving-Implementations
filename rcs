@@ -1,2 +1,2 @@
-gcc CSES/TrafficLight.c
-./a.out
+gcc cses/TrafficLights.c
+./a.out<input
