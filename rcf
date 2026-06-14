@@ -1,2 +1,2 @@
-gcc Codeforces/1061B_ViewsMatter.c
+gcc codeforces/1144D_EqualizeThemAll.c
 ./a.out<input
