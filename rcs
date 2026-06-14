@@ -1,0 +1,2 @@
+gcc CSES/TrafficLight.c
+./a.out
