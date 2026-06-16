@@ -1,2 +1,2 @@
-gcc codeforces/1144D_EqualizeThemAll.c
+gcc codeforces/115B_Lawnmower.c
 ./a.out<input
