@@ -1,2 +1,2 @@
-gcc cses/TrafficLights.c
+gcc cses/DistinctValuesSubarrays.c
 ./a.out<input
