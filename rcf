@@ -1,2 +1,2 @@
-gcc codeforces/115B_Lawnmower.c
+gcc codeforces/611C_NewYearandDomino.c
 ./a.out<input
