@@ -1,2 +1,2 @@
-gcc codeforces/611C_NewYearandDomino.c
+gcc codeforces/415B_MashmokhandTokens.c
 ./a.out<input
