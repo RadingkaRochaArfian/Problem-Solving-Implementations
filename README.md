@@ -22,3 +22,4 @@
 1144D - Equalize Them All [ [Problem](https://codeforces.com/problemset/problem/1144/D) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1144D_EqualizeThemAll.c) ]  
 115B - Lawnmower [ [Problem](https://codeforces.com/problemset/problem/115/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/115B_Lawnmower.c) ]  
 611C - New Year and Domino [ [Problem](https://codeforces.com/problemset/problem/611/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/611C_NewYearandDomino.c) ]  
+415B - Mashmokh and Tokens [ [Problem](https://codeforces.com/problemset/problem/415/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/415B_MashmokhandTokens.c) ]  
