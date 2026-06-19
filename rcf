@@ -1,2 +1,1 @@
-gcc codeforces/415B_MashmokhandTokens.c
-./a.out<input
+go run codeforces/496B_SecretCombination.go<input
