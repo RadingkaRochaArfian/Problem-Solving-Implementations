@@ -1,2 +1,2 @@
-gcc cses/DistinctValuesSubarrays.c
+gcc cses/DistinctValuesSubsequences.c
 ./a.out<input
