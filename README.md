@@ -23,4 +23,5 @@
 115B - Lawnmower [ [Problem](https://codeforces.com/problemset/problem/115/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/115B_Lawnmower.c) ]  
 611C - New Year and Domino [ [Problem](https://codeforces.com/problemset/problem/611/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/611C_NewYearandDomino.c) ]  
 415B - Mashmokh and Tokens [ [Problem](https://codeforces.com/problemset/problem/415/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/415B_MashmokhandTokens.c) ]  
-496B - Secret Combination [ [Problem](https://codeforces.com/problemset/problem/496/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/496B_SecretCombination.go) ]  
+496B - Secret Combination [ [Problem](https://codeforces.com/problemset/problem/496/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/496B_SecretCombination/496B_SecretCombination.go) ]  
+630K - Indivisibility [ [Problem](https://codeforces.com/problemset/problem/630/K) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/630K_Indivisibility/630K_Indivisibility.go) ]  
