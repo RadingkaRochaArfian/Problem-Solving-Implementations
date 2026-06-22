@@ -25,3 +25,4 @@
 415B - Mashmokh and Tokens [ [Problem](https://codeforces.com/problemset/problem/415/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/415B_MashmokhandTokens.c) ]  
 496B - Secret Combination [ [Problem](https://codeforces.com/problemset/problem/496/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/496B_SecretCombination/496B_SecretCombination.go) ]  
 630K - Indivisibility [ [Problem](https://codeforces.com/problemset/problem/630/K) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/630K_Indivisibility/630K_Indivisibility.go) ]  
+2168B - Locate [ [Problem](https://codeforces.com/problemset/problem/2168/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2168B_Locate/2168B_Locate.go) ]  
