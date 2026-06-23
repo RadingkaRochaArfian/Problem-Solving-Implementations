@@ -1,2 +1,2 @@
-gcc cses/DistinctValuesSubsequences.c
+gcc cses/JosephusProblemI.c
 ./a.out<input

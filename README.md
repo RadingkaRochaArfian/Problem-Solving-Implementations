@@ -41,6 +41,7 @@ Towers [ [Problem](https://cses.fi/problemset/task/1073) || [Solution](https://g
 Traffic Lights [ [Problem](https://cses.fi/problemset/task/1163) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/TrafficLights.c) ]  
 Distinct Values Subarrays [ [Problem](https://cses.fi/problemset/task/2428) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/DistinctValuesSubarrays.c) ]  
 Distinct Values Subsequences [ [Problem](https://cses.fi/problemset/task/1747) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/DistinctValuesSubsequences.c) ]  
+Josephus Problem I [ [Problem](https://cses.fi/problemset/task/2162) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/JosephusProblemI.c) ]  
 
 ## Codeforces
 2061B - Kevin and Geometry [ [Problem](https://codeforces.com/problemset/problem/2061/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2061B_KevinAndGeometry.c) ]  
