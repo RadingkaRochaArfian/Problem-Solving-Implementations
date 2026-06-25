@@ -1,2 +1,2 @@
-gcc cses/JosephusProblemI.c
+gcc cses/JosephusProblemII.c
 ./a.out<input
