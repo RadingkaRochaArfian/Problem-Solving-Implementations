@@ -75,3 +75,4 @@ Josephus Problem II [ [Problem](https://cses.fi/problemset/task/2163) || [Soluti
 2036D - I Love 1543 [ [Problem](https://codeforces.com/problemset/problem/2036/D) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2036D_ILove1543/2036D_ILove1543.go) ]  
 1648A - Weird Sum [ [Problem](https://codeforces.com/problemset/problem/1648/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1648A_WeirdSum/1648A_WeirdSum.go) ]  
 485A - Factory [ [Problem](https://codeforces.com/problemset/problem/485/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/485A_Factory/485A_Factory.go) ]  
+166E - Tetrahedron [ [Problem](https://codeforces.com/problemset/problem/166/E) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/166E_Tetrahedron/166E_Tetrahedron.go) ]  
