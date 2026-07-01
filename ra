@@ -1,0 +1,2 @@
+gcc algorithm/ShuntingYard.c
+./a.out<input
