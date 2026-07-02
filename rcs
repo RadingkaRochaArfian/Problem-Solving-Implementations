@@ -1,2 +1,2 @@
-gcc cses/NestedRangesCheck.c
+gcc cses/NestedRangesCount.c
 ./a.out<input
