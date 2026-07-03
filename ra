@@ -1,2 +1,2 @@
-gcc algorithm/ShuntingYard.c
+gcc algorithm/BinarySearch.c
 ./a.out<input
