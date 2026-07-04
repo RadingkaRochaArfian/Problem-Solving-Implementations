@@ -1,2 +1,2 @@
-gcc algorithm/BinarySearch.c
+gcc algorithm/MergeSort.c
 ./a.out<input
