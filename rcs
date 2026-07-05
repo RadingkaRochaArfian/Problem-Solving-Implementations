@@ -1,2 +1,4 @@
-gcc cses/NestedRangesCount.c
-./a.out<input
+#!/bin/bash
+ulimit -s 524288
+gcc cses/RoomAllocation.c
+ ./a.out<input
