@@ -1,2 +1,2 @@
-gcc algorithm/MergeSort.c
+gcc algorithm/Gcd.c
 ./a.out<input
