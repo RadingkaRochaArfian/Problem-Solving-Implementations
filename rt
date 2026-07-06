@@ -1,0 +1,2 @@
+g++ temp/a.cpp
+./a.out<input
