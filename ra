@@ -1,2 +1,2 @@
-gcc algorithm/Gcd.c
+gcc algorithm/Lcm.c
 ./a.out<input
