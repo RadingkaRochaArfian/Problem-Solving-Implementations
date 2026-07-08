@@ -1,4 +1,4 @@
 #!/bin/bash
 ulimit -s 524288
-gcc cses/RoomAllocation.c
+gcc cses/FactoryMachines.c
  ./a.out<input

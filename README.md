@@ -45,7 +45,8 @@ Josephus Problem I [ [Problem](https://cses.fi/problemset/task/2162) || [Solutio
 Josephus Problem II [ [Problem](https://cses.fi/problemset/task/2163) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/JosephusProblemII.c) ]  
 Nested Ranges Check [ [Problem](https://cses.fi/problemset/task/2168) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/NestedRangesCheck.c) ]  
 Nested Ranges Count [ [Problem](https://cses.fi/problemset/task/2168) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/NestedRangesCount.c) ]  
-Room Allocation[ [Problem](https://cses.fi/problemset/task/1164) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/RoomAllocation.c) ]  
+Room Allocation [ [Problem](https://cses.fi/problemset/task/1164) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/RoomAllocation.c) ]  
+Factory Machines [ [Problem](https://cses.fi/problemset/task/1620) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/FactoryMachines.c) ]  
 
 ## Codeforces
 2061B - Kevin and Geometry [ [Problem](https://codeforces.com/problemset/problem/2061/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2061B_KevinAndGeometry.c) ]  
