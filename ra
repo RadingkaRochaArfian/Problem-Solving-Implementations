@@ -1,2 +1,2 @@
 gcc algorithm/Lcm.c
-./a.out<input
+./a.out<input>output

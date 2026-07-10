@@ -1,2 +1,2 @@
 g++ temp/a.cpp
-./a.out<input
+./a.out<input<output
