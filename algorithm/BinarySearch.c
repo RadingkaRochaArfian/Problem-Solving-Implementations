@@ -34,3 +34,7 @@ int main() {
          binarySearchRecursive(arr, 0, (sizeof(arr) / sizeof(arr[0])) - 1, 7),
          binarySearchLoop(arr, (sizeof(arr) / sizeof(arr[0])), 7));
 }
+/*
+when to use:
+-minimize to maximum problem
+*/
