@@ -1,2 +1,2 @@
-gcc algorithm/Lcm.c
+gcc algorithm/SumOfDigits.c
 ./a.out<input>output
