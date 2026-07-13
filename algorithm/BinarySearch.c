@@ -37,4 +37,5 @@ int main() {
 /*
 when to use:
 -minimize to maximum problem
+-find minimal number
 */
