@@ -48,6 +48,7 @@ Nested Ranges Count [ [Problem](https://cses.fi/problemset/task/2168) || [Soluti
 Room Allocation [ [Problem](https://cses.fi/problemset/task/1164) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/RoomAllocation.c) ]  
 Factory Machines [ [Problem](https://cses.fi/problemset/task/1620) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/FactoryMachines.c) ]  
 Tasks and Deadlines [ [Problem](https://cses.fi/problemset/task/1630) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/TasksandDeadlines.c) ]  
+Reading Books [ [Problem](https://cses.fi/problemset/task/1631) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/ReadingBooks.c) ]  
 
 ## Codeforces
 2061B - Kevin and Geometry [ [Problem](https://codeforces.com/problemset/problem/2061/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2061B_KevinAndGeometry.c) ]  
