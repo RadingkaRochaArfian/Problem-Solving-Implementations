@@ -1,2 +1,2 @@
-gcc algorithm/SumOfDigits.c
+gcc algorithm/CharToInt.c
 ./a.out<input>output
