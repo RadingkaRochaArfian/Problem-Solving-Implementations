@@ -1,2 +1,2 @@
-gcc algorithm/CharToInt.c
+gcc algorithm/PrefixSum.c
 ./a.out<input>output
