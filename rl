@@ -1,2 +1,2 @@
-g++ library/Accumulate.cpp
+g++ library/Vector.cpp
 ./a.out<input>output
