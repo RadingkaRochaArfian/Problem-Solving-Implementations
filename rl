@@ -1,2 +1,2 @@
-g++ library/Vector.cpp
+g++ library/Sort.cpp
 ./a.out<input>output
