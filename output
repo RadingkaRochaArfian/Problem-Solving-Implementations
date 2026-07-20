@@ -1,1 +1,6 @@
-329 606 568 892
+Unsorted Array = {9,3,8,7}
+Sorted Array = {3,7,8,9}
+
+Unsorted Vector = {8,7,9,10,7,11}
+Sorted Vector = {7,7,8,9,10,11}
+
