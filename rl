@@ -1,2 +1,2 @@
-g++ library/Sort.cpp
+g++ library/Set.cpp
 ./a.out<input>output
