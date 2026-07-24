@@ -1,4 +1,4 @@
 #!/bin/bash
 ulimit -s 524288
-gcc cses/SumofFourValues.c
+gcc cses/NearestSmallerValues.c
  ./a.out<input>output

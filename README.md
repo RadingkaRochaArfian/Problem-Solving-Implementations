@@ -51,6 +51,7 @@ Tasks and Deadlines [ [Problem](https://cses.fi/problemset/task/1630) || [Soluti
 Reading Books [ [Problem](https://cses.fi/problemset/task/1631) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/ReadingBooks.c) ]  
 Sum of Three Values [ [Problem](https://cses.fi/problemset/task/1641) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/SumofThreeValues.c) ]  
 Sum of Four Values [ [Problem](https://cses.fi/problemset/task/1642) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/SumofFourValues.c) ]  
+Nearest Smaller Values [ [Problem](https://cses.fi/problemset/task/1645) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/cses/NearestSmallerValues.c) ]  
 
 ## Codeforces
 2061B - Kevin and Geometry [ [Problem](https://codeforces.com/problemset/problem/2061/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2061B_KevinAndGeometry.c) ]  
