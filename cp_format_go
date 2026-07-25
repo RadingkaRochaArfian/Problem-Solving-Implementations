@@ -6,13 +6,17 @@ import(
 )
 var reader *bufio.Reader=bufio.NewReader(os.Stdin)
 var writer *bufio.Writer=bufio.NewWriter(os.Stdout)
-func printf(f string, a ...interface{}){fmt.Fprintf(writer,f,a...)}
-func scanf(f string, a ...interface{}){fmt.Fscanf(reader,f,a...)}
+func printf(f string, a ...any){fmt.Fprintf(writer,f,a...)}
 func scan(a ...any){fmt.Fscan(reader,a...)}
+func solve(){
+
+}
 func main(){
   defer writer.Flush()
-  var a,b int
-  scanf("%d %d\n",&a,&b)
-  printf("%d\n",a+b)
+	var t int64
+	scan(&t)
+	for range t {
+		solve()
+	}
 }
 //source:https://www.codementor.io/@tucnak/using-golang-for-competitive-programming-h8lhvxzt3
