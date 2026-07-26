@@ -1,57 +1,43 @@
+#include <algorithm>
+#include <climits>
+#include <cstdio>
 #include <cstdlib>
 #include <iostream>
-typedef long long ll;
 using namespace std;
+typedef long long ll;
 void solve() {
-  int n;
-  cin >> n;
-  ll sum = 0;
-  ll iPlus = 0;
-  ll iMinus = 0;
-  for (int i = 0; i < n; i++) {
-    int x;
-    cin >> x;
-    if (x == 1) {
-      iPlus++;
-    } else {
-      iMinus++;
-    }
-    sum += x;
+  ll n;
+  scanf("%lld", &n);
+  ll arr[n];
+  for (ll i = 0; i < n; i++) {
+    cin >> arr[i];
   }
-  if (n == 1) {
-    cout << "NO" << endl;
+  if (n % 2 == 1) {
+    printf("NO\n");
     return;
   }
-  if (sum == 0) {
-    cout << "YES" << endl;
-    return;
-  }
-  if (iPlus != iMinus && abs(iPlus - iMinus) > 2) {
-    sum = iPlus + iMinus;
-    ll diff = (iPlus + iMinus) / 2;
-    if (iPlus > iMinus) {
-      ll req = abs(iMinus - diff);
-      req /= 2;
-      req *= 2;
-      iPlus -= req;
-      iMinus += req;
+  ll odd = LLONG_MIN;
+  ll even = LLONG_MAX;
+  bool cant = false;
+  for (ll i = 0; i < n; i++) {
+    if (i % 2 == 0) {
+      even = min(even, arr[i]);
     } else {
-      ll req = abs(iPlus - diff);
-      req /= 2;
-      req *= 2;
-      iPlus += req;
-      iMinus -= req;
+      odd = max(odd, arr[i]);
+      if (arr[i] > arr[i - 1] || abs(arr[i] - arr[i - 1]) == 1) {
+        cant = true;
+      }
     }
   }
-  if (iPlus != iMinus) {
-    cout << "NO" << endl;
+  if (abs(even - odd) < 2 || cant || even < odd) {
+    cout << "NO\n";
   } else {
-    cout << "YES" << endl;
+    cout << "YES\n";
   }
 }
 int main() {
   ll t;
-  cin >> t;
+  scanf("%lld", &t);
   while (t--) {
     solve();
   }
