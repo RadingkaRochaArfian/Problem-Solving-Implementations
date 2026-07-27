@@ -1,1 +1,1 @@
-go run codeforces/1635A_MinOrSum/1635A_MinOrSum.go<input>output
+go run codeforces/2020A_FindMinimumOperations/2020A_FindMinimumOperations.go<input>output
