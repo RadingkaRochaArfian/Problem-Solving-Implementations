@@ -1,1 +1,1 @@
-go run codeforces/2153B_BitwiseReversion/2153B_BitwiseReversion.go<input>output
+go run codeforces/1566B_MIN-MEXCut/1566B_MIN-MEXCut.go<input>output
