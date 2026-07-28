@@ -1,1 +1,1 @@
-go run codeforces/1566B_MIN-MEXCut/1566B_MIN-MEXCut.go<input>output
+go run codeforces/2170A_MaximumNeighborhood/2170A_MaximumNeighborhood.go<input>output
