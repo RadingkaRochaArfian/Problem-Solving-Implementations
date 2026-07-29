@@ -1,2 +1,2 @@
-gcc algorithm/PrefixSum.c
+gcc algorithm/Combination.c
 ./a.out<input>output
