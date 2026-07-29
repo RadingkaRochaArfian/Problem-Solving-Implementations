@@ -69,9 +69,9 @@ func initDpState(k int) *DpState {
 	}
 	return &DpState{memo, vis}
 }
-func twoPow(k int) int64 {
+func twoPow(n int) int64 {
 	res := int64(1)
-	for range k {
+	for range n {
 		res = (res * 2) % MOD
 	}
 	return res
