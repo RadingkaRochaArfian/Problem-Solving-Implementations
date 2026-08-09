@@ -55,8 +55,8 @@ string addChar(int idxFrom, int mantraFrom, int mantraTo) {
   }
   reverse(arrMantra.begin(), arrMantra.end());
   string res;
-  for (int bit : arrMantra) {
-    int c = bit & 1;
+  for (int mantra : arrMantra) {
+    int c = mantra & 1;
     res += char('0' + c);
   }
   return res;
