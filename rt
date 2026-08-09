@@ -1,2 +1,2 @@
-g++ contest/veternity/contest/penyisihan/a.cpp
+g++ temp/a.cpp
 ./a.out<input>output
