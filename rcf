@@ -1,1 +1,1 @@
-go run codeforces/1291A_EvenButNotEven/1291A_EvenButNotEven.go<input>output
+python3 codeforces/709A_Juicer.py<input>output
