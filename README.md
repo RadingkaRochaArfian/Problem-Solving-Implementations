@@ -193,3 +193,4 @@ Subarray Sums I [ [Problem](https://cses.fi/problemset/task/1660) || [Solution](
 1291A - Even But Not Even [ [Problem](https://codeforces.com/problemset/problem/1291/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1291A_EvenButNotEven/1291A_EvenButNotEven.go) ]  
 697A - Pineapple Incident [ [Problem](https://codeforces.com/problemset/problem/697/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/697A_PineappleIncident.py) ]  
 709A - Juicer [ [Problem](https://codeforces.com/problemset/problem/709/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/709A_Juicer.py) ]  
+1185D - Extra Element [ [Problem](https://codeforces.com/problemset/problem/1185/D) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1185D_ExtraElement.py) ]  
