@@ -195,3 +195,4 @@ Subarray Sums I [ [Problem](https://cses.fi/problemset/task/1660) || [Solution](
 709A - Juicer [ [Problem](https://codeforces.com/problemset/problem/709/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/709A_Juicer.py) ]  
 1185D - Extra Element [ [Problem](https://codeforces.com/problemset/problem/1185/D) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1185D_ExtraElement.py) ]  
 1107A - Digits Sequence Dividing [ [Problem](https://codeforces.com/problemset/problem/1107/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1107A_DigitsSequenceDividing.py) ]  
+1992C - Gorilla and Permutation [ [Problem](https://codeforces.com/problemset/problem/1992/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1992C_GorillaandPermutation.py) ]  
