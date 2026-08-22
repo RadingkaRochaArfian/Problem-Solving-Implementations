@@ -198,3 +198,6 @@ Subarray Sums I [ [Problem](https://cses.fi/problemset/task/1660) || [Solution](
 1992C - Gorilla and Permutation [ [Problem](https://codeforces.com/problemset/problem/1992/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1992C_GorillaandPermutation.py) ]  
 2048B - Kevin and Permutation [ [Problem](https://codeforces.com/problemset/problem/2048/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2048B_KevinandPermutation.py) ]  
 4D - Mysterious Present [ [Problem](https://codeforces.com/problemset/problem/4/D) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/4D_MysteriousPresent.py) ]  
+
+## LeetCode
+3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
