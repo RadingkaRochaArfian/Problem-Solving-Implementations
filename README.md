@@ -202,6 +202,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 1860A - Not a Substring [ [Problem](https://codeforces.com/problemset/problem/1860/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1860A_NotaSubstring.py) ]  
 1609A - Divide and Multiply [ [Problem](https://codeforces.com/problemset/problem/1609/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1609A_DivideandMultiply.py) ]  
 2232B - Cake Leveling [ [Problem](https://codeforces.com/problemset/problem/2232/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2232B_CakeLeveling.py) ]  
+807A - Is it rated? [ [Problem](https://codeforces.com/problemset/problem/807/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/807A_Isitrated.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
