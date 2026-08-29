@@ -210,6 +210,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 1669E - 2-Letter Strings [ [Problem](https://codeforces.com/problemset/problem/1669/E) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1669E_2-LetterStrings.py) ]  
 38B - Chess [ [Problem](https://codeforces.com/problemset/problem/38/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/38B_Chess.py) ]  
 1013B - And [ [Problem](https://codeforces.com/problemset/problem/1013/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1013B_And.py) ]  
+2185C - Shifted MEX [ [Problem](https://codeforces.com/problemset/problem/2185/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2185C_ShiftedMEX.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
