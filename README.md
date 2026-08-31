@@ -211,7 +211,8 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 38B - Chess [ [Problem](https://codeforces.com/problemset/problem/38/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/38B_Chess.py) ]  
 1013B - And [ [Problem](https://codeforces.com/problemset/problem/1013/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1013B_And.py) ]  
 2185C - Shifted MEX [ [Problem](https://codeforces.com/problemset/problem/2185/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2185C_ShiftedMEX.py) ]  
-246C - Buggy Sorting [ [Problem](https://codeforces.com/problemset/problem/2185/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/246A_BuggySorting.py) ]  
+246C - Buggy Sorting [ [Problem](https://codeforces.com/problemset/problem/246/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/246A_BuggySorting.py) ]  
+776A - A Serial Killer [ [Problem](https://codeforces.com/problemset/problem/776/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/776A_ASerialKiller.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
