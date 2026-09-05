@@ -1,2 +1,2 @@
-gcc algorithm/Combination.c
-./a.out<input>output
+gcc algorithm/DepthFirstSearch.c
+./a.exe<input>output
