@@ -225,6 +225,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 133A - Neverending competitions [ [Problem](https://codeforces.com/problemset/problem/765/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/133A_HQ9+.py) ]  
 10A - Power Consumption Calculation [ [Problem](https://codeforces.com/problemset/problem/10/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/10A_PowerConsumptionCalculation.py) ]  
 1878C - Vasilije in Cacak [ [Problem](https://codeforces.com/problemset/problem/1878/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1878C_VasilijeinCacak.py) ]  
+556A - Case of the Zeros and Ones [ [Problem](https://codeforces.com/problemset/problem/556/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/556A_CaseoftheZerosandOnes.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
