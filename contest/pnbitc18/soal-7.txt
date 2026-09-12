@@ -1,0 +1,15 @@
+Dalam teori bilangan, sebuah angka disebut sebagai angka palindrom jika nilai angka tersebut tetap sama ketika dibaca dari arah depan maupun dari arah belakang (sebagai contoh: 121, 1331, 5005). Buatlah sebuah program terstruktur untuk memeriksa sifat palindrom dari suatu bilangan bulat secara matematis (tanpa memanipulasi atau mengubah angka tersebut menjadi tipe data string/teks).
+
+Input Format
+
+Satu baris berupa integer positif N yang akan diuji.
+
+contoh : 12321
+
+Constraints
+
+1 <= N <= 2.147.483.647
+
+Output Format
+
+Cetak PALINDROM jika bilangan tersebut terbukti sama dari kedua arah, atau cetak BUKAN jika tidak sama.

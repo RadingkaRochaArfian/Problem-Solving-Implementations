@@ -1,0 +1,19 @@
+Untuk menghemat ruang penyimpanan log teks, dibuat sebuah algoritma kompresi data string sederhana. Algoritma ini bekerja dengan cara memindai karakter kembar yang muncul secara berurutan, lalu menuliskan karakter tersebut diikuti oleh jumlah kemunculannya. Sebagai contoh, urutan string "aaabbc" akan dikompresi menjadi teks "a3b2c1".
+
+Input Format
+
+Satu baris string S berupa kumpulan huruf alfabet tanpa spasi.
+
+contoh : aaabbc
+
+Constraints
+
+1 <= S <= 1.000 (S menyatakan panjang string)
+
+S hanya terdiri dari huruf alfabet (a-z, A-Z) tanpa spasi.
+
+Output Format
+
+Satu baris string yang merupakan hasil akhir dari proses kompresi karakter.
+
+contoh : a3b2c1

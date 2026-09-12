@@ -1,0 +1,15 @@
+Dalam sistem penangalan kalender Masehi, terdapat tahun kabisat yang memiliki jumlah hari sebanyak 366 hari. Aturan penentuannya adalah tahun tersebut harus habis dibagi 400, ATAU tahun tersebut habis dibagi 4 tetapi tidak habis dibagi 100. Buatlah sebuah program validasi untuk menentukan status suatu tahun.
+
+Input Format
+
+Satu baris berupa integer Y yang menyatakan tahun yang akan diperiksa.
+
+contoh : 2002
+
+Constraints
+
+1 <= Y <= 2.147.483.647
+
+Output Format
+
+Cetak teks KABISAT jika tahun tersebut memenuhi syarat, atau cetak BUKAN KABISAT jika tidak memenuhi syarat.

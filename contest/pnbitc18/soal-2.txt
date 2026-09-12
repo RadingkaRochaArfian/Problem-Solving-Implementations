@@ -1,0 +1,15 @@
+Sebuah toko swalayan menerapkan sistem diskon progresif untuk meningkatkan volume penjualan. Jika total belanja pelanggan di atas Rp500.000, maka mereka berhak mendapatkan diskon sebesar 10%. Jika total belanja berada di antara Rp200.000 hingga Rp500.000 (inklusif), pelanggan mendapatkan diskon sebesar 5%. Jika total belanja di bawah Rp200.000, pelanggan tidak mendapatkan diskon. Hitunglah total akhir yang harus dibayarkan oleh pelanggan.
+
+Input Format
+
+600000
+
+Constraints
+
+0 <= T <= 2.147.483.647
+
+Output Format
+
+Satu baris berupa integer yang menyatakan total akhir yang harus dibayar setelah dipotong diskon (lakukan pembulatan ke bawah jika menghasilkan nilai desimal).
+
+Contoh : 540000

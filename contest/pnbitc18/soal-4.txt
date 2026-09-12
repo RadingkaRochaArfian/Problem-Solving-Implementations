@@ -1,0 +1,17 @@
+Ruangan server membutuhkan pengawasan suhu yang ketat untuk mencegah overheat pada perangkat infrastruktur. Jika sensor mendeteksi suhu di atas 30.0 derajat Celcius, maka sistem pendingin AC tambahan harus otomatis dinyalakan. Jika suhu drop di bawah 18.0 derajat Celcius, maka alat penghangat otomatis aktif untuk menjaga kelembapan. Di luar kondisi tersebut, status ruangan dianggap normal.
+
+Input Format
+
+Satu baris berupa angka desimal (double) S yang menyatakan suhu ruangan saat ini.
+
+contoh : 32.5
+
+Constraints
+
+-273.15 <= S <= 1.000,0
+
+Output Format
+
+Cetak string AC AKTIF, PENGHANGAT AKTIF, atau NORMAL sesuai dengan kondisi evaluasi suhu.
+
+contoh : AC AKTIF

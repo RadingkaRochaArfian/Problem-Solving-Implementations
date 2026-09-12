@@ -1,0 +1,17 @@
+Sebuah sensor IoT mengirimkan data durasi aktif sistem dalam satuan detik. Untuk kebutuhan pemantauan dan pembuatan laporan efisiensi energi, data tersebut harus dikonversi ke dalam format durasi waktu yang lebih mudah dibaca, yaitu Jam, Menit, dan Detik.
+
+Input Format
+
+Satu baris berupa integer N yang menyatakan total durasi dalam detik.
+
+Contoh : 3661
+
+Constraints
+
+0 >= N <= 2,147,483,647
+
+Output Format
+
+Satu baris string dengan format: X jam Y menit Z detik.
+
+Contoh : 1 jam 1 menit 1 detik

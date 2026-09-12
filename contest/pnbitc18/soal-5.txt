@@ -1,0 +1,15 @@
+Sebuah platform digital memerlukan sistem validasi awal untuk memastikan keamanan kata sandi pengguna saat mendaftar. Sebuah password akan dikategorikan sebagai password yang kuat jika memenuhi dua syarat mutlak: panjang karakter minimal harus 8 karakter dan wajib mengandung minimal satu karakter angka (0-9).
+
+Input Format
+
+Satu baris string P yang berisi password pilihan pengguna (dipastikan input tidak mengandung spasi).
+
+contoh : rahsia123
+
+Constraints
+
+1 <= P <= 100 (P adalah panjang dari String password)
+
+Output Format
+
+Cetak string KUAT jika password memenuhi kedua syarat keamanan, atau cetak LEMAH jika ada syarat yang dilanggar.

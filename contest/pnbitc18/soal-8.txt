@@ -1,0 +1,21 @@
+Seorang guru membutuhkan kalkulasi statistik cepat setelah mengoreksi lembar jawaban ujian para siswa. Guru tersebut ingin mengetahui berapa nilai tertinggi yang diraih di kelasnya serta berapa nilai rata-rata keseluruhan dari seluruh siswa yang mengikuti ujian tersebut.
+
+Input Format
+
+Baris pertama: Integer N yang menyatakan jumlah total siswa yang mengikuti ujian.
+contoh input baris pertama : 5
+
+Baris kedua: N buah integer yang menyatakan data nilai masing-masing siswa (setiap nilai dipisahkan oleh karakter spasi).
+contoh input baris kedua : 80 90 75 85 95
+
+Constraints
+
+1 <= N <= 1.000 (Jumlah total siswa)
+
+0 <= Nilai <= 100 (Nilai tiap siswa berupa integer dalam rentang standar 0 hingga 100)
+
+Output Format
+
+Satu baris berisi dua angka yang dipisahkan oleh spasi: Nilai_Tertinggi Rata_Rata (Nilai rata-rata wajib ditampilkan dengan format 1 angka di belakang koma).
+
+contoh : 95 85.0

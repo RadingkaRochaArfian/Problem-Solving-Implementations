@@ -1,0 +1,23 @@
+Sistem komputerisasi gudang mencatat riwayat log transaksi barang masuk dan barang keluar secara berkala. Barang yang masuk ke gudang disimbolkan dengan angka positif (+), sedangkan barang yang keluar disimbolkan dengan angka negatif (-). Program harus menghitung sisa stok akhir secara kumulatif. Namun, sistem juga harus memicu alarm error jika di tengah-tengah urutan transaksi, jumlah stok mendadak menyentuh angka di bawah 0 akibat adanya pencatatan pengeluaran barang yang tidak valid.
+
+Input Format
+
+Baris demi baris perintah berupa integer transaksi (contoh: 100, -30, 50, -130) yang dibaca terus-menerus hingga menyentuh batas End-of-File (EOF). Stok awal gudang diasumsikan bernilai 0.
+
+Contoh : 100 -30 50 -130
+
+Constraints
+
+-100.000 <= Transaksi <= 100.000 (Nilai perubahan stok pada tiap transaksi)
+
+1 <= K <= 10.000 (K menyatakan jumlah total baris transaksi hingga EOF)
+
+Total akumulasi stok akhir dipastikan berada dalam jangkauan nilai integer 32-bit (-2.147.483.648 hingga 2.147.483.647).
+
+Output Format
+
+Jika selama proses kalkulasi urutan transaksi berjalan ditemukan momen di mana stok bernilai negatif (kurang dari 0), sistem harus langsung menghentikan proses pembacaan dan mencetak teks: ERROR: STOK MINUS.
+
+Jika seluruh urutan log transaksi berhasil diproses secara valid hingga baris terakhir, cetak satu baris angka integer yang menyatakan total sisa stok akhir gudang.
+
+Contoh : 0

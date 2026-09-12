@@ -1,0 +1,17 @@
+Untuk mengamankan pengiriman pesan teks antar agen, dibuatlah sebuah sistem enkripsi sederhana menggunakan metode pergeseran karakter (Caesar Cipher) sebesar 3 posisi ke kanan. Proses enkripsi ini hanya berlaku secara eksklusif untuk karakter huruf kecil (a-z). Karakter lain seperti huruf kapital, angka, spasi, dan simbol tidak boleh diubah sama sekali.
+
+Input Format
+
+Satu baris string S yang merupakan teks pesan asli (bisa mengandung spasi dan simbol).
+
+contoh : abc XYZ 123!
+
+Constraints
+
+1 <= S <= 1.000 (S menyatakan panjang String teks pesan)
+
+Output Format
+
+Satu baris string yang merupakan hasil teks yang telah dienkripsi
+
+contoh : def XYZ 123!
