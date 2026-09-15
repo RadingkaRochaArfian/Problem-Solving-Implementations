@@ -228,6 +228,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 556A - Case of the Zeros and Ones [ [Problem](https://codeforces.com/problemset/problem/556/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/556A_CaseoftheZerosandOnes.py) ]  
 1380A - Three Indices [ [Problem](https://codeforces.com/problemset/problem/1380/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1380A_ThreeIndices.py) ]  
 279A - Lights Out [ [Problem](https://codeforces.com/problemset/problem/279/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/279A_LightsOut.py) ]  
+598A - Tricky Sum [ [Problem](https://codeforces.com/problemset/problem/598/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/598A_TrickySum.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
