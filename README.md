@@ -231,6 +231,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 598A - Tricky Sum [ [Problem](https://codeforces.com/problemset/problem/598/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/598A_TrickySum.py) ]  
 879A - Borya's Diagnosis [ [Problem](https://codeforces.com/problemset/problem/879/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/879A_BoryasDiagnosis.py) ]  
 1795B - Ideal Point [ [Problem](https://codeforces.com/problemset/problem/1795/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1795B_IdealPoint.py) ]  
+1047B - Cover Points [ [Problem](https://codeforces.com/problemset/problem/1047/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1047B_CoverPoints.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
