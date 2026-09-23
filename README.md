@@ -236,6 +236,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 1055A - Metro [ [Problem](https://codeforces.com/problemset/problem/1055/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1055A_Metro.py) ]  
 1020B - Badge [ [Problem](https://codeforces.com/problemset/problem/1020/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1020B_Badge.py) ]  
 1829E - The Lakes [ [Problem](https://codeforces.com/problemset/problem/1829/E) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1829E_TheLakes.py) ]  
+1430C - Numbers on Whiteboard [ [Problem](https://codeforces.com/problemset/problem/1430/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1430C_NumbersonWhiteboard.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
