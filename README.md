@@ -239,6 +239,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 1430C - Numbers on Whiteboard [ [Problem](https://codeforces.com/problemset/problem/1430/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1430C_NumbersonWhiteboard.py) ]  
 1638C - Inversion Graph [ [Problem](https://codeforces.com/problemset/problem/1638/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1638C_InversionGraph.cpp) ]  
 1800C1 - Powering the Hero (easy version) [ [Problem](https://codeforces.com/problemset/problem/1800/C1) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1800C1_PoweringtheHero(easyversion).cpp) ]  
+862B - Mahmoud and Ehab and the bipartiteness [ [Problem](https://codeforces.com/problemset/problem/862/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/862B_MahmoudandEhabandthebipartiteness.cpp) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
