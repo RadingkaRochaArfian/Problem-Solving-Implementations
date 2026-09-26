@@ -242,6 +242,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 862B - Mahmoud and Ehab and the bipartiteness [ [Problem](https://codeforces.com/problemset/problem/862/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/862B_MahmoudandEhabandthebipartiteness.cpp) ]  
 2267A - Turn Into a Palindrome [ [Problem](https://codeforces.com/problemset/problem/2267/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2267A_TurnIntoaPalindrome.cpp) ]  
 2267B - Fashionable Array [ [Problem](https://codeforces.com/problemset/problem/2267/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2267B_FashionableArray.cpp) ]  
+899C - Dividing the numbers [ [Problem](https://codeforces.com/problemset/problem/899/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/899C_Dividingthenumbers.cpp) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
