@@ -22,6 +22,6 @@ int gcdLoop(int a, int b) {
   return a;
 }
 int main() {
-  printf("GCD recursive (10,3): %d\n", gcdRecursive(10, 3));
+  printf("GCD recursive (4,9): %d\n", gcdRecursive(10, 3));
   printf("GCD loop (3,10): %d\n", gcdLoop(3, 10));
 }
