@@ -254,3 +254,4 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 ## TLX
 TROC #16 B [ [Problem](https://tlx.toki.id/problems/troc-16/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/tlx/troc16B.cpp) ]
 Joints 2019 - PCS Penyisihan A [ [Problem](https://tlx.toki.id/problems/joints-2019-pcs-penyisihan/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/tlx/Joints2019PenyisihanA.cpp) ]
+Joints 2019 - PCS Penyisihan B [ [Problem](https://tlx.toki.id/problems/joints-2019-pcs-penyisihan/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/tlx/Joints2019PenyisihanB.cpp) ]
