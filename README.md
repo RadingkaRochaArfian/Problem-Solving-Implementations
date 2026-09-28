@@ -245,6 +245,8 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 899C - Dividing the numbers [ [Problem](https://codeforces.com/problemset/problem/899/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/899C_Dividingthenumbers.cpp) ]  
 268A [ [Problem](https://codeforces.com/problemset/problem/268/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/268A.cpp) ]  
 1360E [ [Problem](https://codeforces.com/problemset/problem/1360/E) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1360E.cpp) ]  
+1065B [ [Problem](https://codeforces.com/problemset/problem/1065/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1065B.cpp) ]  
+
 
 ## LeetCode
 3622. [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
