@@ -248,6 +248,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 1065B [ [Problem](https://codeforces.com/problemset/problem/1065/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1065B.cpp) ]  
 1534C [ [Problem](https://codeforces.com/problemset/problem/1534/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1534C.cpp) ]  
 1741D [ [Problem](https://codeforces.com/problemset/problem/1741/D) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1741D.cpp) ]  
+1661B [ [Problem](https://codeforces.com/problemset/problem/1661/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1661B.cpp) ]  
 
 
 ## LeetCode
