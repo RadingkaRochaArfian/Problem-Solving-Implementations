@@ -17,4 +17,9 @@ void accumulateVector() {
   int sum = accumulate(vInt.begin(), vInt.end(), 0);
   cout << "} = " << sum << endl;
 }
-int main() { accumulateVector(); }
+int main() { 
+  accumulateVector(); 
+  int n;
+  vector<int> a(n);
+  for(auto it:a)cin>>it; 
+}
