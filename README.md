@@ -255,6 +255,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 2129A [ [Problem](https://codeforces.com/problemset/problem/2129/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2129A.cpp) ]  
 94B [ [Problem](https://codeforces.com/problemset/problem/94/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/94B.cpp) ]  
 1711B [ [Problem](https://codeforces.com/problemset/problem/1711/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1711B.cpp) ]  
+1675D [ [Problem](https://codeforces.com/problemset/problem/1675/D) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1675D.cpp) ]  
 
 
 ## LeetCode
