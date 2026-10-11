@@ -13,7 +13,7 @@
             "cStandard": "gnu23",
             "cppStandard": "gnu++20",
             "intelliSenseMode": "windows-gcc-x64",
-            "compilerPath": "C:/Winlib/mingw64/bin/g++.exe"
+            "compilerPath": "/usr/bin/g++"
         }
     ],
     "version": 4
