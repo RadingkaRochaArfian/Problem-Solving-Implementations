@@ -278,6 +278,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 1647B [ [Problem](https://codeforces.com/problemset/problem/1647/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1647B.cpp) ]  
 129B [ [Problem](https://codeforces.com/problemset/problem/129/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/129B.cpp) ]  
 344B [ [Problem](https://codeforces.com/problemset/problem/344/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/344B.cpp) ]  
+1944A [ [Problem](https://codeforces.com/problemset/problem/1944/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1944A.cpp) ]  
 
 ## LeetCode
 3622. [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]  
