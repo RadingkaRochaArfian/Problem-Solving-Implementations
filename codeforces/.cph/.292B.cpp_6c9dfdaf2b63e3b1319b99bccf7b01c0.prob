@@ -1,0 +1,1 @@
+{"name":"Local: 292B","url":"/home/nafrnn/Documents/Problem-Solving-Implementations/codeforces/292B.cpp","tests":[{"id":1793892491910,"input":"4 3\n1 2\n2 3\n3 4\n","output":"bus topology\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/nafrnn/Documents/Problem-Solving-Implementations/codeforces/292B.cpp","group":"local","local":true}
