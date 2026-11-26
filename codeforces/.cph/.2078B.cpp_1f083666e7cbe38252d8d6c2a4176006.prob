@@ -1,0 +1,1 @@
+{"name":"Local: 2078B","url":"/home/nafrnn/Documents/Problem-Solving-Implementations/codeforces/2078B.cpp","tests":[{"id":1795680985634,"input":"2\n2 1\n3 2\n","output":"2 1\n2 3 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/nafrnn/Documents/Problem-Solving-Implementations/codeforces/2078B.cpp","group":"local","local":true}
